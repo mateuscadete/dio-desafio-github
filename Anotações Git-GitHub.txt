@@ -1,0 +1,6 @@
+git status | Retorna as informações atuais de um diretório
+git add . | Adiciona todos os arquivos para serem commitados
+git add <arquive> | Adiciona o arquivo selecionado para serem commitados
+git clone <link> | Copia o repositório remoto para local
+git commit -m <"comments"> |  Os arquivos se tornam arquivos commits
+git push origin main | Empurrando os arquivos para o repositório remoto
